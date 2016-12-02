@@ -1,5 +1,5 @@
 ---
 applications:
-- name: rails-blog
+- name: scott-rails-blog
   memory: 512M
   buildpack: ruby_buildpack
